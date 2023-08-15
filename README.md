@@ -1,1 +1,2 @@
 # UniVerse
+#UniVerse is a cutting-edge college social network designed to bridge the gap between students and faculty members, fostering seamless communication, collaboration, #and engagement within the academic community. As a dynamic and intuitive web application built using the advanced MERN (MongoDB, Express, React, Node.js) technology #stack, UniVerse revolutionizes the way students and educators interact, share information, and stay informed about college activities.
